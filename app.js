@@ -8,7 +8,7 @@ runIt();
 
 
 function runIt() {
-  https.get('https://www.railyatri.in/pnr-status/8214797858', (resp) => {
+  https.get('https://www.railyatri.in/pnr-status/8505061129', (resp) => {
       let data = '';
 
       // A chunk of data has been recieved.
